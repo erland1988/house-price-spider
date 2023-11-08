@@ -1,5 +1,6 @@
 .idea
 .git
+.gitkeep
 __pycache__
 *.log
 *.txt
